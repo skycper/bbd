@@ -36,4 +36,15 @@ Route::group(['middleware' => 'web'], function () {
     Route::get('/home', 'HomeController@index');
 });
 
+<<<<<<< HEAD
+
+=======
+
+/*
+|--------------------------------------------------------------------------
+| Test the merge bird
+|--------------------------------------------------------------------------
+|
+*/
+>>>>>>> c4800ade8767e1f6d09512c96679b48aa8e2c3d1
 everything is bird
